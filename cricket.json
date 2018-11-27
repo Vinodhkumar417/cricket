@@ -1,0 +1,170 @@
+[{
+    "name" :"Balachandran",
+    "match": 440,
+    "innings":375,
+    "runs":7228,
+    "ballsfaced":7668,
+    "average":19.27,
+    "strikerate":94.26,
+    "highscore":"105*"
+  },
+  
+  {
+      "name" :"Ganesh Moorthi",
+      "match": 136,
+      "innings":115,
+      "runs":8852,
+      "ballsfaced":2096,
+      "average":19.40,
+      "strikerate":104.48,
+      "highscore":"100*"
+    },
+    {
+      "name" :"Sasi kumar",
+      "match": 444,
+      "innings":356,
+      "runs":7416,
+      "ballsfaced":7893,
+      "average":20.83,
+      "strikerate":94.26,
+      "highscore":"93*"
+    },{
+      "name" :"Karupusamy",
+      "match": 182,
+      "innings":131,
+      "runs":2455,
+      "ballsfaced":2947,
+      "average":18.74,
+      "strikerate":89.30,
+      "highscore":"71"
+    },{
+      "name" :"Arul Prakash",
+      "match": 392,
+      "innings":187,
+      "runs":1670,
+      "ballsfaced":1873,
+      "average":8.93,
+      "strikerate":89.16,
+      "highscore":"43"
+    },{
+      "name" :"Logu",
+      "match": 185,
+      "innings":128,
+      "runs":1551,
+      "ballsfaced":1728,
+      "average":12.11,
+      "strikerate":89.75,
+      "highscore":"64"
+    },{
+      "name" :"Muthu Prakash",
+      "match": 276,
+      "innings":176,
+      "runs":2135,
+      "ballsfaced":2584,
+      "average":12.13,
+      "strikerate":82.62,
+      "highscore":"73"
+    },{
+      "name" :"Manoj",
+      "match": 371,
+      "innings":200,
+      "runs":1761,
+      "ballsfaced":1871,
+      "average":8.80,
+      "strikerate":94.12,
+      "highscore":"53"
+    },{
+      "name" :"Nagaraj",
+      "match": 69,
+      "innings":29,
+      "runs":262,
+      "ballsfaced":373,
+      "average":9.03,
+      "strikerate":70.24,
+      "highscore":"49"
+    },{
+        "name" :"Jagathish kumar",
+        "match": 360,
+        "innings":169,
+        "runs":2380,
+        "ballsfaced":2528,
+        "average":14.08,
+        "strikerate":94.14,
+        "highscore":"48*"
+      },{
+        "name" :"Gokul",
+        "match": 222,
+        "innings":156,
+        "runs":2475,
+        "ballsfaced":2389,
+        "average":15.86,
+        "strikerate":103.59,
+        "highscore":"93*"
+      },
+      
+      {
+        "name" :"Suresh",
+        "match": 278,
+        "innings":149,
+        "runs":1659,
+        "ballsfaced":1635,
+        "average":11.13,
+        "strikerate":101.46,
+        "highscore":"48*"
+      },{
+        "name" :"Aravind",
+        "match": 213,
+        "innings":79,
+        "runs":774,
+        "ballsfaced":1154,
+        "average":9.79,
+        "strikerate":7.07,
+        "highscore":"44"
+      },{
+        "name" :"Boopathi",
+        "match": 50,
+        "innings":38,
+        "runs":616,
+        "ballsfaced":578,
+        "average":16.21,
+        "strikerate":106.57,
+        "highscore":"50"
+      },{
+        "name" :"Mari muthu",
+        "match": 94,
+        "innings":12,
+        "runs":40,
+        "ballsfaced":52,
+        "average":3.33,
+        "strikerate":76.92,
+        "highscore":"9*"
+      },{
+        "name" :"Sadhasivam",
+        "match": 59,
+        "innings":9,
+        "runs":111,
+        "ballsfaced":145,
+        "average":12.33,
+        "strikerate":76.55,
+        "highscore":"26*"
+      },{
+        "name" :"Sakthivel",
+        "match": 36,
+        "innings":12,
+        "runs":50,
+        "ballsfaced":63,
+        "average":4.16,
+        "strikerate":79.36,
+        "highscore":"16*"
+      },{
+        "name" :"Aji",
+        "match": 2,
+        "innings":1,
+        "runs":18,
+        "ballsfaced":18,
+        "average":18,
+        "strikerate":100,
+        "highscore":"18"
+      }  
+      
+    ]
